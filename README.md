@@ -5,7 +5,7 @@
 - User Authentication with an external NodeJS server
 - User can stream to their channel
 
-| MVP Features: |  |
-| ----------- | ----------- |
-| Feature | Includes |
-| Paragraph | Text |
+## Down the road Features:
+- VODs (Video On Demand) saves after the stream completes.
+- Live channel chat
+- Channel customization
